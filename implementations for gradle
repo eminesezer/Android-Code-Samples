@@ -1,0 +1,7 @@
+The implementation for volley library:
+  implementation 'com.android.volley:volley:1.0.0'
+The implementation for support-v4 library:
+  implementation 'com.android.support:support-v4:27.1.1'
+The implementation for support.design library:  
+  implementation 'com.android.support:design:27.1.1'
+  
